@@ -52,6 +52,7 @@ Welcome to stars ⭐ & comments 😀 & sharing :chart_with_upwards_trend: !!
 |![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA.svg?style=social&label=Star) <br> [**Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding**](https://arxiv.org/abs/2306.02858)|EMNLP|2023-06| [Github](https://github.com/DAMO-NLP-SG/Video-LLaMA) | 8 |
 |![Star](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything.svg?style=social&label=Star) <br> [**VideoChat: Chat-Centric Video Understanding**](httpshttps://arxiv.org/abs/2305.06355) |arXiv|2023-05| [Github](https://github.com/OpenGVLab/Ask-Anything) | 4~32 |
 |![Star](https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter.svg?style=social&label=Star) <br> [**LLaMA-Adapter: Efficient Fine-tuning of LLaMA**](https://arxiv.org/pdf/2303.16199) |ICLR|2023-03| [Github](https://github.com/OpenGVLab/LLaMA-Adapter) | - |
+|![Star](https://img.shields.io/github/stars/showlab/PadCaptioner.svg?style=social&label=Star) <br> [**Parallelized Autoregressive Decoding for Omni-Modal Dense Video Captioning**](https://arxiv.org/pdf/2607.02963) |ECCV|2026-07| [Github](https://github.com/showlab/PadCaptioner) | 0.5FPS |
 
 #### Streaming Videos
 |  Title  |   Venue  |   Date   |   Code   |   Frames   |
